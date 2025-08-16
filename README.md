@@ -1,6 +1,3 @@
-title: "📘 Full Stack Python - 45 Days Training Plan"
----
-
 # Phase 1: Core Python (Day 1 – Day 21)
 
 ## Week 1 (Day 1 – Day 7): Python Fundamentals
@@ -62,11 +59,3 @@ title: "📘 Full Stack Python - 45 Days Training Plan"
 - **Day 44**: Project 2 – Django (E-commerce or Student Mgmt.) – Setup & Models  
 - **Day 45**: Project 2 – Views, Templates, URLs  
 - **Day 46**: Project 2 – Final Touches, Deployment & Review  
-"""
-
-# Save syllabus as .Rmd file
-output_path = "/mnt/data/FullStackPython_45Days.Rmd"
-with open(output_path, "w", encoding="utf-8") as f:
-    f.write(syllabus_md)
-
-output_path
