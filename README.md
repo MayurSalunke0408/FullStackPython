@@ -1,4 +1,3 @@
-# FullStackPython
 # 📘 Full Stack Python 
 ## Phase 1: Core Python (Day 1 – Day 21)
 
@@ -113,4 +112,3 @@ Day 44: Project 2 – Django (E-commerce or Student Mgmt.) – Setup & Models
 Day 45: Project 2 – Views, Templates, URLs
 
 Day 46: Project 2 – Final Touches, Deployment & Review
-<img width="501" height="2370" alt="image" src="https://github.com/user-attachments/assets/2b61c063-6f6d-45fb-ba94-02445e252cb8" />
